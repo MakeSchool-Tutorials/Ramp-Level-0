@@ -1,6 +1,6 @@
 ---
-title: "Get started with writing tutorials!"
-slug: getting-started
+title: "Starting Ramp Level 0"
+slug: starting-ramp-0
 ---
 
 The above title becomes the tutorials first header so _an introduction to the tutorial page should be given here before any more headers are created._

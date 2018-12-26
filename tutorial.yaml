@@ -1,7 +1,10 @@
-title: "Tutorial Template Title, max 56 characters"
+title: "Ramp Level 0 - Introduction to Programming"
 cover: cover.png
-solution_url: https://github.com/MakeSchool-Tutorials/Tutorial-Template/
 teaser_text: |
-    Tell the user what they will learn!
-    This can be multi-line text.
-    150 characters max!
+    Practice the fundamentals -
+    variables and objects, arrays,
+    loops, conditionals, functions,
+    and classes - by completing
+    programming challenges that
+    increase in complexity as you
+    build up your coding skills.

@@ -1,4 +1,8 @@
-# Tutorial Template
+# Ramp Level 0 - Introduction to Programming
+
+Practice the fundamentals - variables and objects, arrays, loops, conditionals, functions, and classes - by completing programming challenges that increase in complexity as you build up your coding skills.
+
+## Overview
 
 Each tutorial should have a `README.md` at the root with the following things included:
 
@@ -7,7 +11,3 @@ Each tutorial should have a `README.md` at the root with the following things in
 1. Pre-requisites to understand the tutorial
 1. Objectives for the tutorial
 1. Instructor FAQ (common areas students make get stuck on, bugs they may encounter, etc)
-
-# Writing your own tutorial
-
-Use this repository as a starting point for your tutorial. Each tutorial must follow it's file structure and include all files included in this repository.

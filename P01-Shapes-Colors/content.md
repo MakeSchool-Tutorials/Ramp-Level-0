@@ -3,35 +3,71 @@ title: "Shapes and Colors"
 slug: shapes-colors
 ---
 
-## Watch Tutorials
-From The Coding Train's p5.js Tutorial Playlist
-https://www.youtube.com/watch?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&v=8j0UDiN7my4
+## Watch [Video 1.1 - Introduction](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
 
-1.1 Introduction
-https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1
-1.3 Basics of Drawing
-https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3
-1.4 Color
-https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
+![ms-video-youtube](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
 
-## Complete Code Challenges
-### in `index.html`
-*Step 1: Add your name in the h1 tags*
-- add your name so that it says "YOURNAME's Colorful Creatures"
+# Watch [Video 1.3 - Basics of Drawing](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
 
-### in `sketch.js`
-*Step 2: Draw Creature 1*
-- a "creature" is a combination of multiple shapes to create a single drawn object
-- create one creature on each side of the center line
-- Use 4 or more different shape functions (`rect` , `line` , `ellipse` , `arc` , `triangle` , `quad` , etc)
-- Use 4 or more different colors in `fill` and/or `stroke`
-- example (don't copy this exactly, create your own creatures!):
+![ms-video-youtube](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
+
+# Watch [Video 1.4 - Color](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
+
+![ms-video-youtube](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
 
 
+# Challenge 1: Add your name
 
-- Look up details for how to use new functions using the p5.js Reference (https://p5js.org/reference/)
-- For help getting exact x and y values for your shapes, click on the canvas, then look in the console to see the values for where you clicked
+**in `index.html`**
 
-*Bonus 1: Give your creatures names*
-- use the `text` function to display a name under each creature
-- do not change the existing text at the top of the screen
+> [action]
+> Find the `h1` tags in `index.html` and add your name so that it says `YOURNAME's Colorful Creatures`
+>
+
+# Challenge 2: Draw Creature 1 and Creature 2
+
+**in `sketch.js`**
+
+Create a creature by combining multiple shapes to create a more complex drawing.
+
+> [info]
+> Look up how to use new functions by viewing the **Shape** section in the [p5.js Reference](https://p5js.org/reference/)
+>
+
+As you are making your creatures you should notice that the location `0,0` is in the top left corner and `x` and `y` values get bigger as you move down and to the right.
+
+> [info]
+> For help getting exact x and y values for your shapes, click on the canvas, then look in the console to see the values for where you clicked.
+>
+
+![getting x y values](assets/get_x_y_values.png "Get x and y values in the console")
+
+> [action]
+> create one creature on each side of the center line
+>
+
+<!--  -->
+
+> [action]
+> Use 4 or more different shape functions (`rect` , `line` , `ellipse` , `arc` , `triangle` , `quad` , etc)
+>
+
+<!--  -->
+
+> [action]
+> Use 4 or more different colors in `fill` and/or `stroke`
+>
+
+## Example
+
+> [solution]
+> ![example creatures](assets/example.png "example creatures")
+>
+
+# Bonus 1: Give your creatures names
+
+**in `sketch.js`**
+
+> [challenge]
+> Add more code to display your creature names - do not change the existing text or modify the `helper.js` file.
+>

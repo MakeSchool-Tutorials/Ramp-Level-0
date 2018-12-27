@@ -59,6 +59,18 @@ Along the way and at the end of the tutorial, you can push yourself by tackling 
 > [challenge]
 > bonus challenges in boxes like this
 
+# Watching Videos
+
+Each assignment in Ramp 0 start with a selection of videos from [The Coding Train's p5.js Tutorial Playlist](https://www.youtube.com/watch?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&v=8j0UDiN7my4). Please watch all of the videos to best prepare for completing the code challenges for that assignment.
+
+The code challenges are designed to allow you to practice and extend your understanding of the concepts covered in the videos. Often, the solution to a code challenge relies upon using the same exact coding technique from one of the videos with a few small changes. (Students who choose to tackle the code challenges without watching the videos first often waste time working on solutions that are more complicated than they need to be.)
+
+## Video Guides
+
+> [info]
+> Note: You can find Video Guides for all tutorial videos in the Projects section of the classroom
+>
+
 # Completing Assignments
 
 All assignments must be completed and submitted through the Repl.it classroom - check out [make.sc/ramp-quick](make.sc/ramp-quick) for a quick overview.
@@ -131,16 +143,22 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 
 # Challenge 1: Add your name
 
+**in `index.html`**
+
 > [action]
 > Find the `h1` tags in `index.html` and add your name so that it says `YOURNAME's Hello World`
 >
 
 # Challenge 2: Update the values for `backgroundColor`
 
+**in `sketch.js`**
+
 > [action]
 > Locate `backgroundColor = color(100, 150, 255);` inside of `sketch.js` and change the 3 number values to create a custom color.
 
 # Challenge 3: Fill in your info
+
+**in `sketch.js`**
 
 > [action]
 > Find the `?` in `sketch.js` and replace them with your own answers.
@@ -149,6 +167,8 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 Make sure your answers work with the text on the screen!
 
 # Challenge 4: Answer a question using the print function
+
+**in `sketch.js`**
 
 Question: What inspired you to learn to code?
 
@@ -160,11 +180,15 @@ View the console tab in the results panel to check your output.
 
 # Bonus 1: Answer another question
 
+**in `sketch.js`**
+
 > [challenge]
 > Add a new print statement and answer the question "What would you like to help create in the world?"
 >
 
 # Bonus 2: Fix the code formatting error
+
+**in `sketch.js`**
 
 > [challenge]
 > Scan the left side of the code panel for the *i* indicator and hover over it to read the suggested fix. Then make the change.

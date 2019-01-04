@@ -1,19 +1,19 @@
-
+---
 title: "Shapes and Colors"
 slug: shapes-colors
 ---
 
-## Watch [Video 1.1 - Introduction](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
+## Watch [Video 1.1 - Introduction](https://www.youtube.com/watch?v=8j0UDiN7my4)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
+![ms-video-youtube](https://www.youtube.com/watch?v=8j0UDiN7my4)
 
-# Watch [Video 1.3 - Basics of Drawing](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
+# Watch [Video 1.3 - Basics of Drawing](https://www.youtube.com/watch?v=D1ELEeIs0j8)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
+![ms-video-youtube](https://www.youtube.com/watch?v=D1ELEeIs0j8)
 
-# Watch [Video 1.4 - Color](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
+# Watch [Video 1.4 - Color](https://www.youtube.com/watch?v=9mucjcrhFcM)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
+![ms-video-youtube](https://www.youtube.com/watch?v=9mucjcrhFcM)
 
 
 # Challenge 1: Add your name

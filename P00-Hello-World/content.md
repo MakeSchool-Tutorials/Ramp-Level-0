@@ -1,6 +1,6 @@
 ---
-title: "Starting Ramp Level 0"
-slug: getting-started
+title: "Hello World"
+slug: hello-world
 ---
 
 ## Welcome to Ramp!

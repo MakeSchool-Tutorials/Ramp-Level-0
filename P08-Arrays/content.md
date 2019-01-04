@@ -3,17 +3,17 @@ title: "Arrays"
 slug: arrays
 ---
 
-## Watch [Video 7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU&index=25&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+## Watch [Video 7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=VIQoUghHSxU&index=25&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=VIQoUghHSxU)
 
-# Watch [Video 7.2 Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I&index=26&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 7.2 Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=RXWO3mFuW-I&index=26&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 
-# Watch [Video 7.3 Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58&index=27&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 7.3 Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=fBqaA7zRO58&index=27&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=fBqaA7zRO58)
 
 # Challenge 1: Add your name
 

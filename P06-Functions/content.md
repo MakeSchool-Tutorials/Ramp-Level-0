@@ -3,17 +3,17 @@ title: "Functions"
 slug: functions
 ---
 
-## Watch [Video 5.1 Function Basics](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
+## Watch [Video 5.1 Function Basics](https://www.youtube.com/watch?v=wRHAitGzBrg)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
+![ms-video-youtube](https://www.youtube.com/watch?v=wRHAitGzBrg)
 
-# Watch [Video 5.2 Function Parameters and Arguments](https://www.youtube.com/watch?v=zkc417YapfE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
+# Watch [Video 5.2 Function Parameters and Arguments](https://www.youtube.com/watch?v=zkc417YapfE)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=zkc417YapfE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
+![ms-video-youtube](https://www.youtube.com/watch?v=zkc417YapfE)
 
-# Watch [Video 5.3 Functions and Return](https://www.youtube.com/watch?v=qRnUBiTJ66Y&index=20&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 5.3 Functions and Return](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=qRnUBiTJ66Y&index=20&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
 
 # Challenge 1: Add your name
 

@@ -3,13 +3,13 @@ title: "Classes"
 slug: classes
 ---
 
-## Watch [Video 6.2 Classes in Javascript](https://www.youtube.com/watch?v=T-HGdc8L-7w&index=22&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+## Watch [Video 6.2 Classes in Javascript](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=T-HGdc8L-7w&index=22&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 
-# Watch [Video 6.3 Constructor Arguments with Classes in Javascript](https://www.youtube.com/watch?v=rHiSsgFRgx4&index=23&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 6.3 Constructor Arguments with Classes in Javascript](https://www.youtube.com/watch?v=rHiSsgFRgx4)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=rHiSsgFRgx4&index=23&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=rHiSsgFRgx4)
 
 # Challenge 1: Add your name
 

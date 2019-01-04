@@ -3,13 +3,13 @@ title: "Variables"
 slug: variables
 ---
 
-## Watch [Video 2.1 - Variables (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
+## Watch [Video 2.1 - Variables (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
+![ms-video-youtube](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
 
-# Watch [Video 2.2 - Variables (make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 2.2 - Variables (make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
 
 # Challenge 1: Add your name
 

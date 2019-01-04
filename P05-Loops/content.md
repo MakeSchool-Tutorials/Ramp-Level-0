@@ -3,13 +3,13 @@ title: "Loops"
 slug: loops
 ---
 
-## Watch [Video 4.1 - While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk&index=16&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+## Watch [Video 4.1 - While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=cnRD9o6odjk&index=16&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=cnRD9o6odjk)
 
-# Watch [Video 4.2 - Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=17)
+# Watch [Video 4.2 - Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=17)
+![ms-video-youtube](https://www.youtube.com/watch?v=1c1_TMdf8b8)
 
 # Challenge 1: Add your name
 

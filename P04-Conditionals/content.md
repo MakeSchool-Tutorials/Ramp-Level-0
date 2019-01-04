@@ -3,21 +3,21 @@ title: "Conditionals"
 slug: conditionals
 ---
 
-## Watch [Video 3.1 - Introduction to Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
+## Watch [Video 3.1 - Introduction to Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
+![ms-video-youtube](https://www.youtube.com/watch?v=1Osb_iGDdjk)
 
-# Watch [Video 3.2 - The Bouncing Ball](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
+# Watch [Video 3.2 - The Bouncing Ball](https://www.youtube.com/watch?v=LO3Awjn_gyU)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
+![ms-video-youtube](https://www.youtube.com/watch?v=LO3Awjn_gyU)
 
-# Watch [Video 3.3 - Else and Else if, AND and OR](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+# Watch [Video 3.3 - Else and Else if, AND and OR](https://www.youtube.com/watch?v=r2S7j54I68c)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+![ms-video-youtube](https://www.youtube.com/watch?v=r2S7j54I68c)
 
-# Watch [Video 3.4 - Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc&index=14&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+# Watch [Video 3.4 - Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=Rk-_syQluvc&index=14&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+![ms-video-youtube](https://www.youtube.com/watch?v=Rk-_syQluvc)
 
 # Challenge 1: Add your name
 

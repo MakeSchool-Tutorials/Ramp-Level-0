@@ -3,13 +3,13 @@ title: "Objects"
 slug: objects
 ---
 
-## Watch [Video 2.3 - Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
+## Watch [Video 2.3 - Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
+![ms-video-youtube](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
-# Watch [Video 2.5 - The random() Function](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+# Watch [Video 2.5 - The random() Function](https://www.youtube.com/watch?v=nfmV2kuQKwA)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+![ms-video-youtube](https://www.youtube.com/watch?v=nfmV2kuQKwA)
 
 # Challenge 1: Add your name
 

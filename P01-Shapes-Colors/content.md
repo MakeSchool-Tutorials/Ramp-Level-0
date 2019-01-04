@@ -15,7 +15,6 @@ slug: shapes-colors
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=9mucjcrhFcM)
 
-
 # Challenge 1: Add your name
 
 **in `index.html`**

@@ -3,7 +3,7 @@ title: "Starting Ramp Level 0"
 slug: getting-started
 ---
 
-## Welcome to RAMP!
+## Welcome to Ramp!
 
 We are excited to have you in the program and we look forward to helping you strengthen your programming skills.
 
@@ -76,7 +76,7 @@ The code challenges are designed to allow you to practice and extend your unders
 All assignments must be completed and submitted through the Repl.it classroom - check out [make.sc/ramp-quick](make.sc/ramp-quick) for a quick overview.
 
 > [action]
-> Visit [make.sc/join-ramp](make.sc/join-ramp) to join the classroom.
+> Visit [make.sc/ramp-start](make.sc/ramp-start) to join the classroom.
 >
 
 Each assignment is set up like a web page, that can use HTML, CSS, and Javascript.
@@ -143,13 +143,17 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 
 # Challenge 1: Add your name
 
+> [info]
+> If you haven't already, visit [make.sc/ramp-start](make.sc/ramp-start) to join the classroom, then navigate to the _0.0 Hello World_ assignment to start the challenges below.
+>
+
 **in `index.html`**
 
 > [action]
 > Find the `h1` tags in `index.html` and add your name so that it says `YOURNAME's Hello World`
 >
 
-# Challenge 2: Update the values for `backgroundColor`
+# Challenge 2: Update the canvas color
 
 **in `sketch.js`**
 
@@ -164,7 +168,9 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 > Find the `?` in `sketch.js` and replace them with your own answers.
 >
 
-Make sure your answers work with the text on the screen!
+Make sure your answers work with the text on the screen:
+
+![example](assets/example.png "example")
 
 # Challenge 4: Answer a question using the print function
 
@@ -176,14 +182,16 @@ Question: What inspired you to learn to code?
 > Type your answer inside of the `print()` function
 >
 
-View the console tab in the results panel to check your output.
+View the console tab in the results panel to check your output:
+
+![console](assets/console.png "console")
 
 # Bonus 1: Answer another question
 
 **in `sketch.js`**
 
 > [challenge]
-> Add a new print statement and answer the question "What would you like to help create in the world?"
+> Add a new `print` statement and answer the question "What would you like to help create in the world?"
 >
 
 # Bonus 2: Fix the code formatting error

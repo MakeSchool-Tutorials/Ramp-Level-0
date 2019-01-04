@@ -7,9 +7,13 @@ slug: objects
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-23-JavaScript-Objects)
+
 # Watch [Video 2.5 - The random() Function](https://www.youtube.com/watch?v=nfmV2kuQKwA)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=nfmV2kuQKwA)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-25-The-random-Function)
 
 # Challenge 1: Add your name
 
@@ -67,11 +71,7 @@ When drawing the creatures, be sure to:
 - Use all 5 properties on each creature
 - Make the creatures stay with the cloud in both the `x` and `y` directions.
 
-## Example
-
-> [solution]
-> ![cloud creatures](assets/cloud_creatures.png "cloud creatures")
->
+![cloud creatures](assets/cloud_creatures.png "cloud creatures")
 
 # Challenge 4: Click to change the sky color
 
@@ -101,8 +101,6 @@ When drawing the creatures, be sure to:
 > Inside of `mousePressed`, call the [`setRed` function](https://p5js.org/reference/#/p5.Color/setRed) on `skyColor` to change it's red amount to `randomRed`.
 > (Note: don't use the exact example code, just use it as a guide)
 >
-
-## Example
 
 The redness of the sky should now change color each time you click the mouse:
 

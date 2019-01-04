@@ -7,13 +7,19 @@ slug: functions
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=wRHAitGzBrg)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-51-Function-Basics)
+
 # Watch [Video 5.2 Function Parameters and Arguments](https://www.youtube.com/watch?v=zkc417YapfE)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=zkc417YapfE)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-52-Function-Parameters-and-Arguments)
+
 # Watch [Video 5.3 Functions and Return](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-53-Functions-and-Return)
 
 # Challenge 1: Add your name
 
@@ -23,11 +29,11 @@ slug: functions
 > Find the `h1` tags in `index.html` and add your name so that it says `YOURNAME's...`
 >
 
-# Challenge 2: Implement the `growOrReset` function
+# Challenge 2: Add grow or reset functionality
 
 **in `sketch.js`**
 
-The `growOrReset` calls other functions depending on the situation.
+The `growOrReset` function calls other functions depending on the situation.
 
 > [action]
 > The `growOrReset` function should call `plantGrow()` if the mouse is on the right half of the canvas, and should call `plantReset()` if the mouse is on the left side.
@@ -39,11 +45,11 @@ The `growOrReset` calls other functions depending on the situation.
 > Uncomment `growOrReset();` inside of `draw`
 >
 
- Check in the console to see if `plant.size` is changing correctly:
+ You can check in the console to see if `plant.size` is changing correctly:
 
 ![console](assets/console.png "console")
 
-# Challenge 3: Implement the `drawPlant` function
+# Challenge 3: Display the plants
 
 **in `sketch.js`**
 
@@ -63,7 +69,7 @@ Watch the two plants grow and bloom:
 
 ![draw plant](assets/draw_plant.png "draw plant")
 
-# Challenge 4: Implement the `plantLabel` function
+# Challenge 4: Implement the label function
 
 **in `sketch.js`**
 

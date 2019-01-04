@@ -7,9 +7,13 @@ slug: classes
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-62-Classes-in-JavaScript)
+
 # Watch [Video 6.3 Constructor Arguments with Classes in Javascript](https://www.youtube.com/watch?v=rHiSsgFRgx4)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=rHiSsgFRgx4)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-63-Constructor-Arguments-with-Classes)
 
 # Challenge 1: Add your name
 
@@ -24,7 +28,7 @@ slug: classes
 **in `sketch.js`**
 
 > [action]
-> Add a new `FancyFlower` class with the same `constructor` arguments: `x`, `y`, and `flowerColor`.
+> Add a new `FancyFlower` class with the same `constructor` arguments: `x`, `y`, and `petalColor`.
 >
 
 Use the `PlainFlower` class as a guide. Ensure that you are including all of the same properties in your `FancyFlower` class.

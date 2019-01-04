@@ -7,9 +7,13 @@ slug: variables
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-21-Variables-mouseX-mouseY)
+
 # Watch [Video 2.2 - Variables (make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-22-Variables-Make-your-own)
 
 # Challenge 1: Add your name
 
@@ -29,11 +33,7 @@ slug: variables
 
 Arrow size and shape should be the same no matter where you move the mouse. Customize the color and line size to your liking.
 
-## Example
-
-> [solution]
-> ![example arrow](assets/line_arrow.png "example arrow")
->
+![example arrow](assets/line_arrow.png "example arrow")
 
 # Challenge 3: Create a variable for the background color
 
@@ -70,8 +70,6 @@ Arrow size and shape should be the same no matter where you move the mouse. Cust
 > [info]
 > The `color` function doesn't work before the `setup` function, you will get an error if you try to use it at the top when you declare your variable.
 >
-
-## Example
 
 Be sure to update your color to use 3 values - for Red, Green, Blue - so that your background is no longer grey.
 
@@ -125,8 +123,6 @@ Example of converting your creature to use an `moveX` variable:
 >
 
 Ensure you keep the `background` function at the top of `draw`, we want the creature to move, not for it to smear color across the canvas (also do not move it to the `mousePressed` function)
-
-## Example
 
 3-shape creature moving from left to right across the canvas:
 

@@ -11,9 +11,13 @@ slug: shapes-colors
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=D1ELEeIs0j8)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-13-Shapes-and-Drawing)
+
 # Watch [Video 1.4 - Color](https://www.youtube.com/watch?v=9mucjcrhFcM)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=9mucjcrhFcM)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-14-Color)
 
 # Challenge 1: Add your name
 

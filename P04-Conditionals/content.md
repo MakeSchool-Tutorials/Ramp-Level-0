@@ -7,17 +7,25 @@ slug: conditionals
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=1Osb_iGDdjk)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-31-Intro-to-Conditional-Statements)
+
 # Watch [Video 3.2 - The Bouncing Ball](https://www.youtube.com/watch?v=LO3Awjn_gyU)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-32-The-Bouncing-Ball)
 
 # Watch [Video 3.3 - Else and Else if, AND and OR](https://www.youtube.com/watch?v=r2S7j54I68c)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=r2S7j54I68c)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-33-Else-and-Else-if-AND-and-OR)
+
 # Watch [Video 3.4 - Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=Rk-_syQluvc)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-34-Boolean-Variables)
 
 # Challenge 1: Add your name
 
@@ -42,7 +50,11 @@ Your `beast` should move right until it reaches the edge of the canvas, then cha
 > [action]
 > Use an if statement to update `beast.speed` to create bouncing behavior
 
-<!--  -->
+Beast bouncing:
+
+![bounce 0](assets/bounce_0.png "bounce 0")
+
+![bounce 1](assets/bounce_1.png "bounce 1")
 
 > [challenge]
 > Try to use only a single if statement, using `&&` and/or `||` as needed.
@@ -58,10 +70,22 @@ Dynamically change `beast.color` to match the color of the background as it move
 > Create an if statement to correctly update `beast.color`
 >
 
-`beast.color` should be `color1` while crossing the first third of the background, `color2` in the middle, and `color3` in the last third.
+`beast.color` should be:
+
+- `color1` while crossing the first third of the background
+
+![camo 0](assets/camo_0.png "camo 0")
+
+- `color2` in the middle third
+
+![camo 1](assets/camo_1.png "camo 1")
+
+- `color3` in the last third
+
+![camo 2](assets/camo_2.png "camo 2")
 
 > [challenge]
-> Format your logic so that colors update correctly even if the canvas is resized to be more or less wide.
+> Format your logic so that colors update correctly even if the canvas is resized to be more or less wide. Would your code above still work if you did `createCanvas(200, 800)` or `createCanvas(500, 100)`?
 >
 
 # Challenge 4: Determine relative motion of the beast to the mouse
@@ -92,7 +116,7 @@ Beast moving left and mouse on right:
 In two of the four combinations the beast is moving towards the mouse ("chasing") and in two the beast is not ("fleeing").
 
 > [action]
-> Create a boolean variable called `movingTowardsMouse`
+> Create a boolean variable called `movingTowardsMouse`.
 >
 
 `movingTowardsMouse` should be set to `true` when:
@@ -117,7 +141,7 @@ Hint: you can tell which direction `beast` is moving based on it's speed!
 > Use an if statement to update `beast.message` to say whether it is chasing or fleeing the mouse
 >
 
-Review the images in Challenge 4 to see how the message should appear in each situation.
+(Review the images in Challenge 4 to see how the message should appear in each situation.)
 
 # Bonus 1: Add vertical movement to the beast
 

@@ -7,9 +7,13 @@ slug: loops
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=cnRD9o6odjk)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-41-while-and-for-Loops)
+
 # Watch [Video 4.2 - Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=1c1_TMdf8b8)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-42-Nested-Loops)
 
 # Challenge 1: Add your name
 
@@ -69,7 +73,7 @@ Clones should all be evenly spaced and moving back and forth together:
 > Use a **nested** `for loop` to draw colored tiles across the whole screen.
 >
 
-Use the same size for spacing and drawing your tiles so that there are no gaps between tiles where the `backgroundColor` shows through:
+Use the same size for spacing and drawing your tiles so that there are no gaps between tiles where the `backgroundColor` can show through:
 
 ![tile floor](assets/tile_floor.png "tile floor")
 

@@ -7,13 +7,19 @@ slug: arrays
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=VIQoUghHSxU)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-71-What-is-an-array)
+
 # Watch [Video 7.2 Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-72-Arrays-and-Loops)
+
 # Watch [Video 7.3 Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=fBqaA7zRO58)
+
+Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-Guide-73-Arrays-of-Objects)
 
 # Challenge 1: Add your name
 
@@ -43,13 +49,13 @@ Click a few times and then check the results of `print(spots)` in the console to
 
 **in `sketch.js`**
 
-Now you are saving spots, but not using them. For now we just want to display each one on the canvas.
+Now you are saving spots, but not using them. Next, add code to display each one on the canvas.
 
 > [action]
 > Use a `for loop` to get each spot in `spots` and then call the `show` function on it.
 >
 
-Each time you click and then move your mouse you should see a new colored spot where you just clicked:
+Each time you click your mouse you should see a new colored spot where you just clicked:
 
 ![spot 0](assets/spot_0.png "spot 0")
 
@@ -68,8 +74,8 @@ Right now the `lastColor` function is just returning a default value of white, t
 There are a few steps that you can break this challenge into:
 
 - check if there are any spots yet, if not, return white
-- if there are spots, get the index of the last location in the array
-- use the index to get the last spot
+- if there are spots, get the number of the last index in the array
+- use the index to get the last spot object
 - update `lastColor` to be the value of the color property of the last spot
 
 When your logic is working correctly, the upper left square should correctly match the color of the most recently added spot:

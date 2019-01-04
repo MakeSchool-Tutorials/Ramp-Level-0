@@ -1,6 +1,6 @@
 ---
 title: "Functions"
-slug: functions
+slug: functions0
 ---
 
 ## Watch [Video 5.1 Function Basics](https://www.youtube.com/watch?v=wRHAitGzBrg)

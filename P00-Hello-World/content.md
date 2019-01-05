@@ -9,19 +9,19 @@ We are excited to have you in the program and we look forward to helping you str
 
 ## Ramp Links
 
-- Program Guide: [make.sc/ramp-program-guide](make.sc/ramp-program-guide)
+- Program Guide: [https://make.sc/ramp-program-guide](https://make.sc/ramp-program-guide)
 
 This document contains more detail about the Ramp program and what to expect.
 
-- Office Hours Calendar: [make.sc/ramp-office-hours](make.sc/ramp-office-hours)
+- Office Hours Calendar: [https://make.sc/ramp-office-hours](https://make.sc/ramp-office-hours)
 
 View the upcoming scheduled office hours.
 
-- Slack: [make.sc/ramp-slack](make.sc/ramp-slack)
+- Slack: [https://make.sc/ramp-slack](https://make.sc/ramp-slack)
 
 Join Slack to meet your peers and get and give more online help from the instructor, TAs, and your peers.
 
-- Repl.it Classroom: [make.sc/ramp-start](make.sc/ramp-start)
+- Repl.it Classroom: [https://make.sc/ramp-start](https://make.sc/ramp-start)
 
 This is where you'll work on and submit your code for each assignment.
 
@@ -73,10 +73,10 @@ The code challenges are designed to allow you to practice and extend your unders
 
 # Completing Assignments
 
-All assignments must be completed and submitted through the Repl.it classroom - check out [make.sc/ramp-quick](make.sc/ramp-quick) for a quick overview.
+All assignments must be completed and submitted through the Repl.it classroom - check out [https://make.sc/ramp-quick](https://make.sc/ramp-quick) for a quick overview.
 
 > [action]
-> Visit [make.sc/ramp-start](make.sc/ramp-start) to join the classroom.
+> Visit [https://make.sc/ramp-start](https://make.sc/ramp-start) to join the classroom.
 >
 
 Each assignment is set up like a web page, that can use HTML, CSS, and Javascript.
@@ -119,7 +119,7 @@ What if you are stuck? You have a few options for getting help.
 
 If you've joined the Slack community, you can post a question in `#level_0_help` - just be sure to review the guidelines for how to ask for help without sharing too much of your code!
 
-[make.sc/ramp-slack](make.sc/ramp-slack)
+[https://make.sc/ramp-slack](https://make.sc/ramp-slack)
 
 ## Submit with a Comment
 
@@ -131,7 +131,7 @@ An instructor will then review your submission, give feedback, and return your s
 
 ## Attend Office Hours
 
-Office hours are on a drop-in basis, no need to schedule in advance. Join the meeting by visiting [make.sc/ramp-meeting](make.sc/ramp-meeting) (you will need to download Zoom the first time).
+Office hours are on a drop-in basis, no need to schedule in advance. Join the meeting by visiting [https://make.sc/ramp-meeting](https://make.sc/ramp-meeting) (you will need to download Zoom the first time).
 
 If none of the office hours fit your schedule and you need help, please send an email and we can make other arrangements.
 
@@ -144,7 +144,7 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 # Challenge 1: Add your name
 
 > [info]
-> If you haven't already, visit [make.sc/ramp-start](make.sc/ramp-start) to join the classroom, then navigate to the _0.0 Hello World_ assignment to start the challenges below.
+> If you haven't already, visit [https://make.sc/ramp-start](https://make.sc/ramp-start) to join the classroom, then navigate to the _0.0 Hello World_ assignment to start the challenges below.
 >
 
 **in `index.html`**
@@ -158,7 +158,7 @@ Good luck, and happy coding as you tackle your first code challenges below! :)
 **in `sketch.js`**
 
 > [action]
-> Locate `backgroundColor = color(100, 150, 255);` inside of `sketch.js` and change the 3 number values to create a custom color.
+> Locate `backgroundColor = color(#, #, #);` inside of `sketch.js` and change the 3 number values to create a custom color.
 
 # Challenge 3: Fill in your info
 

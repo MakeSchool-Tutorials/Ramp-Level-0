@@ -50,7 +50,7 @@ Arrow size and shape should be the same no matter where you move the mouse. Cust
 <!--  -->
 
 > [action]
-> Create a color and assign it to the `backgroundColor` inside of `setup`
+> Use the `color` function to create a color object and assign it to the `backgroundColor` inside of `setup`.
 >
 > ```
 > backgroundColor = color(0);
@@ -65,15 +65,13 @@ Arrow size and shape should be the same no matter where you move the mouse. Cust
 > Pass your newly created color variable to the `background` function instead of `200`
 >
 
-<!--  -->
+Be sure to update your color to use 3 values - for Red, Green, Blue - so that your background is no longer grey.
+
+![custom background color](assets/background.png "custom background color")
 
 > [info]
 > The `color` function doesn't work before the `setup` function, you will get an error if you try to use it at the top when you declare your variable.
 >
-
-Be sure to update your color to use 3 values - for Red, Green, Blue - so that your background is no longer grey.
-
-![custom background color](assets/background.png "custom background color")
 
 # Challenge 4: Create a creature that moves across the screen at a constant speed
 
@@ -124,7 +122,7 @@ Example of converting your creature to use an `moveX` variable:
 
 Ensure you keep the `background` function at the top of `draw`, we want the creature to move, not for it to smear color across the canvas (also do not move it to the `mousePressed` function)
 
-3-shape creature moving from left to right across the canvas:
+Creature moving from left to right across the canvas:
 
 ![moving creature](assets/moving_creature.png "moving creature")
 
@@ -135,7 +133,7 @@ Ensure you keep the `background` function at the top of `draw`, we want the crea
 **in `sketch.js`**
 
 > [challenge]
-> Create a second creature and use creature colors that change based on mouse location
+> Create another creature and use creature colors that change based on mouse location
 >
 
 The creature does not need to move, but it's color should change dynamically as you move the mouse around the canvas.

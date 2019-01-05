@@ -40,7 +40,7 @@ Create a creature by combining multiple shapes to create a more complex drawing.
 As you are making your creatures you should notice that the location `0,0` is in the top left corner and `x` and `y` values get bigger as you move down and to the right.
 
 > [info]
-> For help getting exact x and y values for your shapes, click on the canvas, then look in the console to see the values for where you clicked.
+> For help getting exact `x` and `y` values for your shapes, click on the canvas, then look in the console to see the values for where you clicked.
 >
 
 ![getting x y values](assets/get_x_y_values.png "Get x and y values in the console")
@@ -61,11 +61,9 @@ As you are making your creatures you should notice that the location `0,0` is in
 > Use 4 or more different colors in `fill` and/or `stroke`
 >
 
-## Example
+You should now have two colorful creatures on the canvas:
 
-> [solution]
-> ![example creatures](assets/example.png "example creatures")
->
+![example creatures](assets/example.png "example creatures")
 
 # Bonus 1: Give your creatures names
 

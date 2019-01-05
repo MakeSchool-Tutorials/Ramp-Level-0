@@ -47,9 +47,7 @@ Marcher moving:
 
 **in `sketch.js`**
 
-Create a squad of clones that will along with `marcher`.
-
-Use a `while` loop to draw clones:
+Use a `while` loop to create a squad of clones that will along with `marcher`.
 
 > [action]
 > Define a new var named `cloneY` for the loop to use, and assign it a starting value of `marcher.y` plus some spacing.

@@ -45,21 +45,19 @@ Follow along with the [video guide](https://repl.it/@MakeSchoolRAMP/p5js-Video-G
 
 <!--  -->
 
-> [info]
-> The `color` function doesn't work before the `setup` function, you will get an error if you try to declare and assign values to the objects all at the top.
+> [action]
+> Give `rightCreature` a positive `xOffset` number and `leftCreature` a negative `xOffset`
 >
 
 <!--  -->
 
-> [action]
-> Give `rightCreature` a positive `xOffset` number and `leftCreature` a negative `xOffset`
+> [info]
+> Remember, the `color` function doesn't work before the `setup` function, you will get an error if you try to declare and assign values to the objects all at the top.
 >
 
 # Challenge 3: Draw both creatures on the cloud
 
 **in `sketch.js`**
-
-It should look like your two creatures are staying in the same place on the cloud as you move the mouse around.
 
 > [action]
 > Use `mouseX` and `xOffset` so that `rightCreature` and `leftCreature` both follow the mouse but to the left/right side by a distance of `xOffset`
@@ -71,6 +69,8 @@ When drawing the creatures, be sure to:
 - Use all 5 properties on each creature
 - Make the creatures stay with the cloud in both the `x` and `y` directions.
 
+It should look like your two creatures are staying in the same place on the cloud as you move the mouse around:
+
 ![cloud creatures](assets/cloud_creatures.png "cloud creatures")
 
 # Challenge 4: Click to change the sky color
@@ -78,8 +78,8 @@ When drawing the creatures, be sure to:
 **in `sketch.js`**
 
 > [action]
-> Add the `mousePressed` function at the bottom of the file  and add `print("clicked")` inside.
-> Now you can see evidence in the console that your function was correctly called.
+> Add the `mousePressed` function at the bottom of the file.
+> Add `print("clicked")` inside so that you can see evidence in the console that your function was correctly called.
 >
 
 <!--  -->
@@ -92,7 +92,7 @@ When drawing the creatures, be sure to:
 <!--  -->
 
 > [action]
-> Inside of `mousePressed`, add a variable called `randomRed` and use `random` to assign a random number between 0 and 255.
+> Inside of `mousePressed`, add a variable called `randomRed` and use the `random` function to assign a random number between 0 and 255.
 >
 
 <!--  -->
@@ -112,11 +112,11 @@ The redness of the sky should now change color each time you click the mouse:
 
 > [challenge]
 >
+> Use `print()` inside of `setup` to answer:
+>
 > 1. What is the difference between `value == 5` and `value = 5`?
 > 1. Which one is used in conditional statements?
 >
-
-(Use `print()` inside of `setup` to answer.)
 
 # Bonus 2: Make it a dance party!
 

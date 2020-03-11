@@ -109,11 +109,9 @@ As a Ramp participant, we also have a few options for getting help from members 
 
 ### Get Help on Slack
 
-Join the Make School Community Slack workspace by following the link below.
+Join the Make School Community Slack workspace by visiting [https://make.sc/join-slack](https://make.sc/join-slack).
 
 Once you've joined the Make School Slack community, you can post a question in the `#ramp-support` channel!
-
-[https://make.sc/join-slack](https://make.sc/join-slack)
 
 ### Attend Office Hours
 

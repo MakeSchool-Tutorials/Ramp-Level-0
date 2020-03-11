@@ -1,7 +1,13 @@
 ---
-title: "Arrays"
+title: "0.8 Arrays"
 slug: arrays
 ---
+
+> [action]
+> Access the assignment [0.8 Arrays](https://repl.it/@MakeSchoolRAMP/08-Arrays).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
 
@@ -77,6 +83,10 @@ There are a few steps that you can break this challenge into:
 - if there are spots, get the number of the last index in the array
 - use the index to get the last spot object
 - update `lastColor` to be the value of the color property of the last spot
+
+> [info]
+> In programming, [counting often starts at 0](https://en.wikipedia.org/wiki/Zero-based_numbering), especially when working with arrays.
+>
 
 When your logic is working correctly, the upper left square should correctly match the color of the most recently added spot:
 

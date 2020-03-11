@@ -1,7 +1,13 @@
 ---
-title: "Classes"
+title: "0.7 Classes"
 slug: classes
 ---
+
+> [action]
+> Access the assignment [0.7 Classes](https://repl.it/@MakeSchoolRAMP/07-Classes).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 6.2 Classes in Javascript](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 

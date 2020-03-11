@@ -1,7 +1,13 @@
 ---
-title: "Objects"
+title: "0.3 Objects"
 slug: objects
 ---
+
+> [action]
+> Access the assignment [0.3 Objects](https://repl.it/@MakeSchoolRAMP/03-Objects).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 2.3 - Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 

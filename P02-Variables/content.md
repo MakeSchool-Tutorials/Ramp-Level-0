@@ -1,7 +1,13 @@
 ---
-title: "Variables"
+title: "0.2 Variables"
 slug: variables
 ---
+
+> [action]
+> Access the assignment [0.2 Variables](https://repl.it/@MakeSchoolRAMP/02-Variables).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 2.1 - Variables (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
 

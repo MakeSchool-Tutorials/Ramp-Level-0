@@ -1,7 +1,13 @@
 ---
-title: "Shapes and Colors"
+title: "0.1 Shapes and Colors"
 slug: shapes-colors
 ---
+
+> [action]
+> Access the assignment [0.1 Shapes and Colors](https://repl.it/@MakeSchoolRAMP/01-Shapes-and-Colors).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 1.1 - Introduction](https://www.youtube.com/watch?v=8j0UDiN7my4)
 

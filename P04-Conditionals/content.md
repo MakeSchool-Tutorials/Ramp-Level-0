@@ -1,7 +1,13 @@
 ---
-title: "Conditionals"
+title: "0.4 Conditionals"
 slug: conditionals
 ---
+
+> [action]
+> Access the assignment [0.4 Conditionals](https://repl.it/@MakeSchoolRAMP/04-Conditionals).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 3.1 - Introduction to Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk)
 

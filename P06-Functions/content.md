@@ -1,7 +1,13 @@
 ---
-title: "Functions"
+title: "0.6 Functions"
 slug: functions0
 ---
+
+> [action]
+> Access the assignment [0.6 Functions](https://repl.it/@MakeSchoolRAMP/06-Functions).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 5.1 Function Basics](https://www.youtube.com/watch?v=wRHAitGzBrg)
 

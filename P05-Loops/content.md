@@ -1,7 +1,13 @@
 ---
-title: "Loops"
+title: "0.5 Loops"
 slug: loops
 ---
+
+> [action]
+> Access the assignment [0.5 Loops](https://repl.it/@MakeSchoolRAMP/05-Loops).
+>
+
+Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
 ## Watch [Video 4.1 - While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
 

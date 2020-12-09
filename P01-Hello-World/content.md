@@ -57,11 +57,3 @@ View the console tab in the results panel to check your output:
 > [challenge]
 > Add a new `print` statement and answer the question "What would you like to help create in the world?"
 >
-
-# Bonus 2: Fix the code formatting error
-
-**in `sketch.js`**
-
-> [challenge]
-> Scan the left side of the code panel for the *i* indicator and hover over it to read the suggested fix. Then make the change.
->

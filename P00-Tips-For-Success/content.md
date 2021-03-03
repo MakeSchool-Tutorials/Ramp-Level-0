@@ -5,7 +5,7 @@ slug: tips-for-success
 
 ## Welcome to Ramp!
 
-We are excited to have you in the program and we look forward to helping you strengthen your programming skills. :)
+We are excited to have you in the program and we look forward to helping you **ramp up** your programming skills. :)
 
 # Assignment Formatting
 
@@ -107,15 +107,15 @@ Read tips in [How to Ask for Coding Help for Beginners](https://medium.com/make-
 
 As a Ramp participant, we also have a few options for getting help from members of the Make School community, listed below.
 
-### Get Help on Slack
+### Get Help on Discord
 
-Join the Make School Community Slack workspace by visiting [https://make.sc/join-slack](https://make.sc/join-slack).
+Join the Make School Online Learning Community Discord by visiting [https://make.sc/join-discord](https://make.sc/join-discord).
 
-Once you've joined the Make School Slack community, you can post a question in the `#ramp-support` channel!
+Once you've joined the Make School Discord community, you can post a question in the `#ramp-support` channel to get peer support. Our community mentors won't give you the exact answers, but are always happy to help you get back on track! :)
 
 ### Attend Office Hours
 
-Upcoming video office hour times will be shared in the `#ramp-support` channel on Slack. (Office hours are hosted by volunteer mentors and dependent on volunteer availability.)
+Office hours are hosted by volunteer mentors and dependent on volunteer availability. Upcoming office hour times will be shared in the `#ramp-support` channel on Discord.
 
 ## Completing Assignments
 

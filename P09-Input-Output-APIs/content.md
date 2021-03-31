@@ -94,6 +94,8 @@ The sample joke is of course toooootally hilarious, but just in case the user ha
 > 4A Uncomment global variable `jokeURL` and assign a valid value to it in `setup()`.
 >
 
+What's a valid URL?
+
 > [info]
 > To get a valid URL, visit [https://v2.jokeapi.dev/#try-it](https://v2.jokeapi.dev/#try-it)
 > Use “default (json)” as the format
@@ -111,7 +113,6 @@ Next we will use the `httpGet` function to call the API at the URL and get our j
 
 Re-run your program - you’ll see your starter joke still. Test your new function by calling it in the console and checking that it prints out the return value from calling the JokeAPI:
 
-![console_check_1](assets/console_check_1.png "console_check_1")
 ![console_check_2](assets/console_check_2.png "console_check_2")
 
 As the final final step we need 1 more button so that the user can click it to call the API for a new joke.
@@ -121,6 +122,7 @@ As the final final step we need 1 more button so that the user can click it to c
 >
 
 Enjoy generating and saving your favorite jokes!
+
 ![jokes](assets/jokes.png "jokes")
 
 # Bonus 1: Explore other user inputs for colors

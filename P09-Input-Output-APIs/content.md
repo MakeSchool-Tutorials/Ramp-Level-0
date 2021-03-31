@@ -9,6 +9,19 @@ slug: io-api
 
 Remember to view the p5.js documentation as needed: [http://p5js.org/reference/](http://p5js.org/reference/).
 
+## Watch [Video 8.2 Creating HTML Elements with JavaScript](https://www.youtube.com/watch?v=lAtoaRz78I4)
+
+![ms-video-youtube](https://www.youtube.com/watch?v=lAtoaRz78I4)
+
+## Watch [Video 8.4  Handling DOM Events with Callbacks](https://www.youtube.com/watch?v=NcCEzzd9BGE)
+
+![ms-video-youtube](https://www.youtube.com/watch?v=NcCEzzd9BGE)
+
+## Watch [Video 8.5 Interacting with the DOM using Sliders, Buttons and Text Inputs](https://www.youtube.com/watch?v=587qclhguQg)
+
+![ms-video-youtube](https://www.youtube.com/watch?v=587qclhguQg)
+
+
 # Challenge 1: Add your name
 
 **in `sketch.js`**

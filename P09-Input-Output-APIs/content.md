@@ -37,7 +37,7 @@ Once you re-run you should see the new text and input added below the canvas. Yo
 
 Now you should see that the background color will change to match the color name or hex value that you type. Don’t forget to include the `#` at the start of your hex codes.
 
-![bg_input](assets/bg_input.png "bg_input")
+![color_input](assets/color_input.png "color_input")
 
 HINT: Right now, if there’s no user input for the color it will default to white. Can you think of how to give it your own custom color when there isn’t any user input yet?
 
